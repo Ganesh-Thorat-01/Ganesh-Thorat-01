@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/ganesh-thorat-a9593b133" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ganesh-thorat-a9593b133" height="30" width="40" /></a>
 <a href="https://kaggle.com/ganeshthorat1601" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ganeshthorat1601" height="30" width="40" /></a>
 <a href="https://instagram.com/ganesh_thorat__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ganesh_thorat__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/programming with ganesh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="programming with ganesh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCXhvVTaw3a8onPxwv2TbwUw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="programming with ganesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
