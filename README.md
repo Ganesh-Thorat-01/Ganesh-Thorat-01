@@ -1,32 +1,100 @@
-<h1 align="center">Hi 👋, I'm Ganesh Thorat</h1>
-<h3 align="center">A Passionate Computer Science Engineering Student from India</h3>
+<h1 align="center">👋 Hi, I'm Ganesh Thorat</h1>
+<h3 align="center">AI Developer | GenAI Engineer | Cloud & LLM Applications | India 🇮🇳</h3>
 
-<p align="left"> <a href="https://twitter.com/ganesh_thorat_" target="blank"><img src="https://img.shields.io/twitter/follow/ganesh_thorat_?logo=twitter&style=for-the-badge" alt="ganesh_thorat_" /></a> </p>
-
-- 🔭 I’m currently working on **Data Science**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ganesh-Thorat-01](https://github.com/Ganesh-Thorat-01)
-
-- 📫 How to reach me **thorat.ganeshscoe@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ganesh_thorat_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ganesh_thorat_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ganesh-thorat-a9593b133" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ganesh-thorat-a9593b133" height="30" width="40" /></a>
-<a href="https://kaggle.com/ganeshthorat1601" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ganeshthorat1601" height="30" width="40" /></a>
-<a href="https://instagram.com/ganesh_thorat__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ganesh_thorat__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCXhvVTaw3a8onPxwv2TbwUw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="programming with ganesh" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Ganesh-Thorat-01">
+    <img src="https://komarev.com/ghpvc/?username=ganesh-thorat-01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://twitter.com/ganesh_thorat_" target="blank">
+    <img src="https://img.shields.io/twitter/follow/ganesh_thorat_?logo=twitter&style=for-the-badge" alt="ganesh_thorat_" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh-thorat-01&show_icons=true&locale=en&layout=compact" alt="ganesh-thorat-01" /></p>
+### 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganesh-thorat-01&show_icons=true&locale=en" alt="ganesh-thorat-01" /></p>
+- 💼 Working as a **System Engineer (AI Developer)** at **Tata Consultancy Services (TCS)** in the **AI.Cloud Business Unit**
+- 🧩 2+ year of experience in **AI/ML, Generative AI, RAG**, and **Cloud Applications**
+- ☁️ Skilled in **AWS (Bedrock, Lambda, Comprehend, EventBridge, SES)** and **Azure AI Foundry**
+- 🧠 Passionate about building **Agentic AI Systems**, **LangGraph Pipelines**, and **LLM-powered Automation**
+- 🎓 Computer Science Engineering Graduate  
+- 📺 Creator of [Programming with Ganesh](https://www.youtube.com/channel/UCXhvVTaw3a8onPxwv2TbwUw) — tech & AI tutorials  
+- 📫 Reach me at **thorat.ganeshscoe@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-thorat-01&" alt="ganesh-thorat-01" /></p>
+---
+
+### 🚀 Personal Projects
+
+#### 🤖 LeetCode Automation using LangGraph
+- Developed an **autonomous LangGraph agent** that automatically fetches, solves, and validates daily LeetCode problems.  
+- Implements **self-correcting loops** for debugging and solution optimization using **LLM reasoning and execution feedback**.
+
+#### 📈 Diagrams Generator
+- Generates **dynamic technical diagrams** (system architectures, workflows, data pipelines) from **natural language prompts**.  
+- Uses **LLMs + Graphviz + Mermaid** to auto-generate accurate visualizations for documentation and presentations.
+
+#### 🧠 PolicyNet India
+- **An AI-powered platform that analyzes government policies for legal compliance, bias, and impact using multi-agent AI systems.**  
+- Uses **LangGraph agents** for multi-stage reasoning — including **classification, ethical bias detection, and regulatory impact evaluation**.  
+- Designed to assist **policy researchers, legal experts, and government analysts** with automated, explainable AI reports.
+
+#### 🧾 Resume Chatbot
+- A **RAG-based chatbot** that answers interview questions using my resume as the knowledge base.  
+- Built with **Streamlit + LangChain + AWS Bedrock**.  
+- 🌐 Live Demo: [ganeshthorat.streamlit.app](https://ganeshthorat.streamlit.app/)
+
+---
+
+### 🧠 Tech Stack
+
+#### 🧩 Languages, Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,flask,django,react" />
+</p>
+
+#### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github" />
+</p>
+
+#### 🤖 AI/ML & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Amazon_Web_Services_Logo.svg" alt="aws" height="40" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/ganesh_thorat_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/></a>
+  <a href="https://linkedin.com/in/ganesh-thorat-a9593b133" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+  <a href="https://kaggle.com/ganeshthorat1601" target="blank"><img align="center" src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle" height="40"/></a>
+  <a href="https://instagram.com/ganesh_thorat__" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
+  <a href="https://www.youtube.com/channel/UCXhvVTaw3a8onPxwv2TbwUw" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh-thorat-01&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ganesh-thorat-01&theme=radical" alt="GitHub Streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ganesh-thorat-01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+💬 I love automating real-world tasks using **LLMs**, **LangGraph**, and **Cloud AI** — transforming human workflows into intelligent, autonomous systems 🤖⚡
+
+---
+
+⭐️ **From [Ganesh-Thorat-01](https://github.com/Ganesh-Thorat-01)**
